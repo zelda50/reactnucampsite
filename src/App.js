@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Navbar, NavbarBrand } from 'reactstrap';
-import NucampLogo from './app/img 2/logo.png';
+import NucampLogo from './app/asset/img 2/logo.png';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
 import './App.css';
